@@ -12,3 +12,5 @@
 ## Instruções de uso: Abrir os arquivos através de algum navegador
 
 ##### Todos os Direitos reservados a Gabriel Rodrigues Barbosa
+
+- acesso em: https://gabreverso.github.io/PP2_Etapa1_Gabriel/

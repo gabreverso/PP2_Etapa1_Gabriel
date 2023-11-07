@@ -14,8 +14,8 @@
 }
 
 .estatistica {
-    width: calc(33.33% - 20px); /* 33.33% da largura da tela, com uma margem à direita de 20px */
-    margin-right: 20px; /* Margem à direita entre as estatísticas */
-    float: left; /* Alinha as estatísticas lado a lado */
-    margin-bottom: 20px; /* Adiciona um espaço na parte inferior de cada estatística */
+    width: calc(33.33% - 20px);
+    margin-right: 20px; 
+    float: left; 
+    margin-bottom: 20px; 
 }
