@@ -1,0 +1,21 @@
+@keyframes scrollLeft {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+#atualizacoes ul {
+    white-space: nowrap;
+    overflow: hidden;
+
+}
+
+.estatistica {
+    width: calc(33.33% - 20px); /* 33.33% da largura da tela, com uma margem à direita de 20px */
+    margin-right: 20px; /* Margem à direita entre as estatísticas */
+    float: left; /* Alinha as estatísticas lado a lado */
+    margin-bottom: 20px; /* Adiciona um espaço na parte inferior de cada estatística */
+}
